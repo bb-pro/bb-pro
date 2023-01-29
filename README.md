@@ -10,3 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bb-pro&theme=github_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark"/>
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark"/>
+</div>
