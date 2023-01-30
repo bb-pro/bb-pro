@@ -37,3 +37,15 @@ Here are some ideas to get you started:
           
 ![](https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true&theme=transparent)
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: transparent)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true"
+  media="(prefers-color-scheme: transparent), (prefers-color-scheme: transparent)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true" />
+</picture>
+
