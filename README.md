@@ -1,6 +1,6 @@
 <div id="header">
-	<h1>Hi there, I'm Igor Solodyankin</h1>
-	<h3>iOS-developer from Chelyabinsk</h3>
+	<h1>Hi there, I'm Bektemur Mamashaev</h1>
+	<h3>iOS-developer from Uzbekistan</h3>
 </div>
 
 <div id="socials">
@@ -10,12 +10,11 @@
 </div>
 
 ### About me
-- 🧠 I'm currently learning Swift, specifically UIKit, SwiftUI
-- 📖 I’m currently learning English
-- 👨🏻‍💻 I like to write code
+- 🧠 I'm currently learning IOS Development
+-👨🏻‍🎓 BS at Yamanashi Gakuin University 2020-2022
 
 <!--
-**SoloNineZero/SoloNineZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bb-pro/bb-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
