@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bb-pro&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bb-pro&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bb-pro&theme=transparent&utcOffset=5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bb-pro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bb-pro&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bb-pro&theme=github&utcOffset=8)
