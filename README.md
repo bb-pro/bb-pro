@@ -8,6 +8,7 @@
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+![Profile views](https://komarev.com/ghpvc/?username=bb-pro&color=green)
 
 
 ### About me
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: bektemurmamashayev07@gmail.com
 - ⚡ Fun fact: I love chess 
 -->
-![Profile views](https://komarev.com/ghpvc/?username=bb-pro&color=green)
+
 
 ### Languages and tools
 
@@ -36,6 +37,10 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
+
+<p float="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=bb-pro&theme=radical&hide_border=true&background=#000000">
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bb-pro&&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bb-pro&show_icons=true&theme=radical)
