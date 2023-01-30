@@ -28,7 +28,6 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=bb-pro&theme=radical&hide_border=true&background=#000000">
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bb-pro&&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bb-pro&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bb-pro&show_icons=true&theme=radical&utcOffset=5)
 
