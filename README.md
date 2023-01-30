@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
           
-![](https://github-readme-stats.vercel.app/api?username=bb-pro&hide=contribs,prs)
+![](https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true&theme=transparent)
 
