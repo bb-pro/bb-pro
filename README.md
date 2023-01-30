@@ -17,7 +17,7 @@
 - 👨🏻‍🎓 BS at Yamanashi Gakuin University 2020-2022
 
 
-<!--
+
 **bb-pro/bb-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,16 +28,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: bektemurmamashayev07@gmail.com
-- ⚡ Fun fact: I love chess 
--->
+- ⚡ Fun fact: I am Barcelona fan
 
 
-### Languages and tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
 
 <p float="center">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=bb-pro&theme=radical&hide_border=true&background=#000000">
