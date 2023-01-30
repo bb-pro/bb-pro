@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bb-pro&&show_icons=true&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bb-pro&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bb-pro&theme=github&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bb-pro&show_icons=true&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bb-pro&show_icons=true&theme=radical&utcOffset=5)
