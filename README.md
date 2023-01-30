@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
 
 ![](https://github-readme-stats.vercel.app/api?username=bb-pro&count_private=true&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bb-pro)](https://github.com/bb-pro/github-readme-stats&theme=transparent)
+
