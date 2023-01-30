@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bb-pro&&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bb-pro&show_icons=true&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bb-pro&show_icons=true&theme=radical&utcOffset=5)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=bb-pro)](https://github.com/bb-pro/github-readme-stats&show_icons=true&theme=radical)
