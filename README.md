@@ -13,14 +13,7 @@
 
 
 ### About me
-- 🧠 Learning IOS Development
 - 👨🏻‍🎓 BS at Yamanashi Gakuin University 2020-2022
-
-
-
-**bb-pro/bb-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on my pet projects
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on projects in swift Language
