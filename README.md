@@ -9,6 +9,7 @@
 	</a>
 </div>
 
+
 ### About me
 - 🧠 I'm currently learning IOS Development
 -👨🏻‍🎓 BS at Yamanashi Gakuin University 2020-2022
