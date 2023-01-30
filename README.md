@@ -1,14 +1,6 @@
-- 👋 Hi, I’m @bb-pro
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning IOS app development
-- 💞️ I’m looking to collaborate on open source projects with Swift language
-- 📫 How to reach me https://www.linkedin.com/in/bektemur-mamashaev-674a42216/
-
-<!---
-bb-pro/bb-pro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<div id="header">
+	<h1>Hi there, I'm Igor Solodyankin</h1>
+	<h3>iOS-developer from Chelyabinsk</h3>
 </div>
 
 <div id="socials">
@@ -17,10 +9,24 @@ You can click the Preview link to take a look at your changes.
 	</a>
 </div>
 
-
+### About me
+- 🧠 I'm currently learning Swift, specifically UIKit, SwiftUI
+- 📖 I’m currently learning English
+- 👨🏻‍💻 I like to write code
 
 <!--
+**SoloNineZero/SoloNineZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Swift
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- ⚡ Fun fact: ...
+-->
 
 ### Languages and tools
 
