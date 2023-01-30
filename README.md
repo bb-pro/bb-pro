@@ -34,18 +34,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" title="Photoshop" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" width="40" height="40"/>&nbsp;
-          
-![](https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true&theme=transparent)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true&theme=transparent"
-  media="(prefers-color-scheme: transparent)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true"
-  media="(prefers-color-scheme: transparent), (prefers-color-scheme: transparent)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=bb-pro&show_icons=true" />
-</picture>
-
+![](https://github-readme-stats.vercel.app/api?username=bb-pro&count_private=true&show_icons=true&theme=transparent)
