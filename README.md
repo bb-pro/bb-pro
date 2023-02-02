@@ -15,9 +15,6 @@
 ### About me
 - 👨🏻‍🎓 BS at Yamanashi Gakuin University 2020-2022
 - 🔭 I’m currently working on my pet projects
-- 🌱 I’m currently learning Swift
-- 👯 I’m looking to collaborate on projects in swift Language
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
 - 📫 How to reach me: bektemurmamashayev07@gmail.com
 - ⚡ Fun fact: I am Barcelona fan
