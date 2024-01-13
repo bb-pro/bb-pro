@@ -14,8 +14,7 @@
 
 ### About me
 - 👨🏻‍🎓 BS at Yamanashi Gakuin University 2020-2022
-- 🔭 I’m currently working on my pet projects
-- 💬 Ask me about anything
+- 🔭 I’m currently working at "ASGARDIA TEAM"
 - 📫 How to reach me: bektemurmamashayev07@gmail.com
 - ⚡ Fun fact: I am Barcelona fan
 
